@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on currency converter
-- 🌱 I’m currently learning python
+- 🔭 I’m currently working on Missioned as a web developer
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on kivy (Python module for app) 
 - 🤔 I’m looking for help with data science projects
 - 💬 Ask me about acadmecis
